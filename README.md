@@ -35,7 +35,7 @@ My name is **Mahmoud Tarek** and I'm a passionate **software engineer** 💻. I'
 
 
 <a href="https://github.com/mahmoudtarek97/mahmoudtarek97">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudtarek97&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&layout=compact&langs_count=8" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudtarek97&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&layout=compact" />
 </a>
 <!--
 **MahmoudTarek97/MahmoudTarek97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
