@@ -3,7 +3,7 @@
   <img align="left" alt="Github" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
 </a>
 <a href="mailto:mahmoudtarek6263@gmail.com">
-  <img align="left" alt="Gmail" width="22px" src="https://image.flaticon.com/icons/svg/732/732200.svg" />
+  <img align="left" alt="Gmail" width="22px" src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-gmail-social-media-justicon-flat-justicon.png" />
 </a>
 <a href="https://www.linkedin.com/in/mahmoud-tarek97/">
   <img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
